@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-title: Inter;
+  --font-jaldi: Jaldi;
+  --font-inria-serif: "Inria Serif";
+  --font-inika: Inika;
+  --font-josefin-slab: "Josefin Slab";
+  --font-poller-one: "Poller One";
+  --font-marck-script: "Marck Script";
+  --font-calistoga: Calistoga;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-8xl-6: 27.6px;
+  --font-size-19xl: 38px;
+  --font-size-lgi: 19px;
+  --font-size-11xl: 30px;
+  --font-size-49xl: 68px;
+  --font-size-5xl: 24px;
+  --font-size-10xl: 29px;
+  --font-size-17xl: 36px;
+  --font-size-26xl: 45px;
+  --font-size-90xl: 109px;
+  --font-size-16xl: 35px;
+  --text-title-size: 16px;
+  --font-size-28xl: 47px;
+  --font-size-29xl: 48px;
+  --font-size-lg: 18px;
+  --title-h4-size: 20px;
+  --font-size-38xl: 57px;
+  --font-size-9xl: 28px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-black: #000;
+  --gray-500: #8b96a5;
+  --color-plum: #9d6f9e;
+  --white: #fff;
+  --color-gray-100: #7f8182;
+  --base-color-gray-500: #787a80;
+  --base-color-dark: #1c1c1c;
+  --color-gray-200: #1e0e28;
+  --color-gray-300: rgba(0, 0, 0, 0.72);
+  --color-gainsboro-100: #e0e7e9;
+  --gray-300: #dee2e7;
+  --base-color-gray-200: #e0e0e0;
+  --color-gainsboro-200: #dbdbdb;
+  --color-gainsboro-300: #d9d9d9;
+  --color-gainsboro-400: rgba(217, 217, 217, 0);
+  --color-maroon: #5a1a1a;
+  --base-color-gray-800: #606060;
+  --gray-600: #505050;
+  --color-lavender-100: #f9eefe;
+  --color-lavender-200: #f3e4fc;
+  --color-lavender-300: #f0ddfa;
+  --color-midnightblue: #2f0549;
+  --color-lavenderblush: #f9eefd;
+  --primary: #0d6efd;
+  --base-color-orange: #ff9017;
+  --gray-400: #bdc4cd;
+  --color-silver-100: #bdbdbd;
+  --color-darkslategray: #494343;
+  --gray-200: #eff2f4;
+  --base-color-green: #00b516;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-7xs: 6px;
+  --padding-2xl: 21px;
+
+  /* Border radiuses */
+  --br-12xs: 1px;
+  --br-60xl: 79px;
+  --br-7xs: 6px;
+  --br-9xs: 4px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --shadow-sm: 0px 1px 2px rgba(56, 56, 56, 0.08);
+}
